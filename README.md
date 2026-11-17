@@ -1,7 +1,9 @@
 # Quode
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 Hi, Welcome to Quode!
 
-Quode is a code editor that allows you to:
+Quode is a vscode-fork code editor that allows you to:
 
  - Create sandbox (for any AI agent or for yourself)
  - Auto changes recorder (records all your changes)
@@ -12,9 +14,6 @@ Quode is a code editor that allows you to:
  - Quode Web
  - Quode IDE (without the Agent Panel)
  - Quode Agent
-
-What languages it uses:
-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 If you are interested to help Quode team. You can contribute to us!
 
