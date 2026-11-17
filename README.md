@@ -2,6 +2,8 @@
 
 Hi, Welcome to Quode!
 
+[![Quode CLI](https://github.com/quode-cli/quode-cli/quode.png)]
+
 Quode is a vscode-fork code editor that allows you to:
 
  - Create sandbox (for any AI agent or for yourself)
