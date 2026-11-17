@@ -14,4 +14,4 @@ Features: (coming)
 Community forum: (coming)
 Email: (coming)
 
-> NOTE: Quode is not fully made or fully public yet. So no one can download quode right now.
+> **NOTE**: Quode is not fully made or fully public yet. So no one can download quode right now.
