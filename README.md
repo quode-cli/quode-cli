@@ -1,8 +1,7 @@
 # Quode
 
+![Quode CLI](https://raw.githubusercontent.com/quode-cli/quode-cli/refs/heads/main/quode.png)
 Hi, Welcome to Quode!
-
-[![Quode CLI](https://raw.githubusercontent.com/quode-cli/quode-cli/refs/heads/main/quode.png)]
 
 Quode is a vscode-fork code editor that allows you to:
 
