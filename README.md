@@ -1,17 +1,17 @@
 # Quode
-Creating new posts on our forum for bugs or feature requests is much appreciated!
+Hi, Welcome to Quode!
 
-# Getting Started
+Quode is a vscode-fork AI IDE that allows you to:
+- Create sandbox (for any AI agent or for yourself)
+- And More!
+
+## Getting Started
 Head over to our website to download Cursor.
 
-# Features
-See here for more info on Cursor's features.
-
-# Resources
+## Resources
 Download: (coming)
 Features: (coming)
 Community forum: (coming)
 Email: (coming)
 
-# Security
-Please do not report security vulnerabilities through public issues. Instead email us.
+> NOTE: Quode is not fully made or fully public yet. So no one can download quode right now.
