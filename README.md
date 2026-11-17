@@ -1,7 +1,7 @@
 # Quode
 Hi, Welcome to Quode!
 
-Quode is a vscode-fork AI IDE that allows you to:
+Quode is a vscode-fork that allows you to:
 
  - Create sandbox (for any AI agent or for yourself)
  - Auto changes recorder (records all your changes)
