@@ -1,5 +1,5 @@
 # Quode
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 Hi, Welcome to Quode!
 
@@ -18,6 +18,3 @@ Quode is a vscode-fork code editor that allows you to:
 If you are interested to help Quode team. You can contribute to us!
 
 **NOTE**: Quode is not fully made or fully public yet. So no one can download quode right now.
-
-![](https://github-readme-stats.shion.dev/api?username=quode-cli&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=quode-cli&theme=tokyonight&hide_border=false)<br/>
